@@ -1,0 +1,7 @@
+{
+  "resource_info": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/subscriptions/201e98b3-09fc-4e69-8cc4-5ae356ad1e5e/resourceGroups/myrg-1"
+  }
+}
